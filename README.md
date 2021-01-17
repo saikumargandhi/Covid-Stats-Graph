@@ -12,3 +12,6 @@ Real World Applications:
 
 - Data analysis of how well a country handled the COVID pandemic.
 - Pre-planning to handle other Pandemics
+
+
+<b>Note:</b> You can find the Dataset <b><i><a href="https://data.humdata.org/dataset/coronavirus-covid-19-cases-and-deaths">here</a></i></b>
