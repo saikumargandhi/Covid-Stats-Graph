@@ -14,4 +14,4 @@ Real World Applications:
 - Pre-planning to handle other Pandemics
 
 
-<b>Note:</b> You can find the Dataset <b><i><a target="_blank" href="https://data.humdata.org/dataset/coronavirus-covid-19-cases-and-deaths">here</a></i></b>
+<b>Note:</b> You can find the Dataset <b><i><a href="https://data.humdata.org/dataset/coronavirus-covid-19-cases-and-deaths">here</a></i></b>
